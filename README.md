@@ -8,7 +8,7 @@
 1. Clone this repository
 
 ```bash
-https://github.com/Rohan-Korake/Mini-Calculator-using-Java.git
+git clone https://github.com/Rohan-Korake/Mini-Calculator-using-Java.git
 ```
 
 2. To Compile
